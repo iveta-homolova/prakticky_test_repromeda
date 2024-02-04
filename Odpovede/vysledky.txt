@@ -1,0 +1,29 @@
+A
+
+všechny věkové kategorie	do 29	30-34	35-39	40 a výše
+x%	                        54%	   52%     48%	  44%
+
+
+B
+
+Vyšším vekom matky klesá úspešnosť transferu. 
+
+C
+všechny věkové kategorie	do 29	30-34	35-39	40 a výše
+x%	                        26%	   44%     26%	  4%
+
+Embroy vo veku 30-34 rokov, malo najvyššiu úspešnosť
+
+D
+
+Metody	PGT-A	PGT-SR	Karyomapping	OneGene	bez genetické metody (prázdná hodnota)	ostatní
+Pocet	692	15	65	        20	           158	                        52
+
+
+E
+
+	0	1
+XX	187	201
+XY	213	218
+
+
