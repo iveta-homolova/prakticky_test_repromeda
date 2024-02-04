@@ -4,26 +4,29 @@ všechny věkové kategorie	do 29	30-34	35-39	40 a výše
 x%	                        54%	   52%     48%	  44%
 
 
-B
-
-Vyšším vekom matky klesá úspešnosť transferu. 
+Chi-square value: 0.0
+P-value: 1.0
+Neexistuje žiadna významná súvislosť medzi vekom a klinickým úspechom tehotenstva.
 
 C
 všechny věkové kategorie	do 29	30-34	35-39	40 a výše
 x%	                        26%	   44%     26%	  4%
 
-Embroy vo veku 30-34 rokov, malo najvyššiu úspešnosť
+
 
 D
 
 Metody	PGT-A	PGT-SR	Karyomapping	OneGene	bez genetické metody (prázdná hodnota)	ostatní
-Pocet	692	15	65	        20	           158	                        52
+Pocet	697	15	66	        20	           158	                        52
 
 
 E
+clinical_gravidity  0.0  1.0
+sex                         
+--                    3    1
+XX                  187  202
+XY                  214  220
 
-	0	1
-XX	187	201
-XY	213	218
-
-
+Chi-square value: 1.225484795955027
+P-value: 0.5418628260857106
+Neexistuje žiadna významná súvislosť medzi pohlavím a klinickým úspechom tehotenstva.
